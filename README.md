@@ -11,18 +11,17 @@
 
 <br>
 
-## 📌 1. About Me
+## 📌 About Me
 
-- 🔭 Currently working on **Full Stack** projects
-- 🌱 Learning **Advanced System Design**
-- 🧪 Interested in **Chemistry**
-- 💬 Ask me about **JavaScript, TypeScript, React, Node.js**
-- 📫 Reach me at: **your-email@gmail.com**
-- ⚡ Fun fact: I love turning ideas into working products
+- 🔭 Currently working on full‑stack web projects
+- 🌱 Learning advanced system design
+- 🧪 Interested in chemistry
+- 💬 Ask me about JavaScript, TypeScript, React and Node.js
+- ⚡ I enjoy turning ideas into working products
 
 ---
 
-## 🚀 2. What I'm Doing
+## 🚀 What I'm Doing
 
 | | |
 |---|---|
@@ -33,7 +32,7 @@
 
 ---
 
-## 🛠️ 3. Tech Stack
+## 🛠️ Tech Stack
 
 **Frontend**
 
@@ -45,28 +44,23 @@
 
 ---
 
-## 📂 4. Featured Projects
-
-<p align="center">
-<a href="https://github.com/sarvarbekAkramjonov51">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sarvarbekAkramjonov51&repo=REPO_NAME&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" />
-</a>
-</p>
-
-> ✏️ `REPO_NAME` o'rniga eng yaxshi loyihangiz nomini yozing. Agar loyiha nomi noto'g'ri bo'lsa, bu card chiqmaydi — repo publichligini va nomini tekshiring.
-
----
-
-## 📊 5. GitHub Stats
+## 📊 GitHub Overview
 
 <p align="center">
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=sarvarbekAkramjonov51&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarvarbekAkramjonov51&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=c9d1d9" />
 </p>
 
 ---
 
-## 🔥 6. Streak Stats
+## 💻 Top Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarvarbekAkramjonov51&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=c9d1d9" />
+</p>
+
+---
+
+## 🔥 Streak Stats
 
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=sarvarbekAkramjonov51&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
@@ -74,7 +68,7 @@
 
 ---
 
-## 📈 7. Contribution Activity Graph
+## 📈 Contribution Activity
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarvarbekAkramjonov51&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF" />
@@ -82,7 +76,7 @@
 
 ---
 
-## 🏆 8. GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=sarvarbekAkramjonov51&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
@@ -90,37 +84,27 @@
 
 ---
 
-## 🎓 9. Certificates & Learning
+## 💭 Daily Quote
 
-- ✅ *(Sertifikat nomi)* — *(bergan tashkilot)*
-- ✅ *(Sertifikat nomi)* — *(bergan tashkilot)*
-- 📖 Currently studying: **System Design, Advanced React**
-
-> ✏️ Bu bo'limni haqiqiy sertifikatlaringiz bilan to'ldiring.
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 
 ---
 
-## 🌐 10. Connect with Me
+## 🌐 Connect with Me
 
 <p align="center">
 <a href="https://github.com/sarvarbekAkramjonov51" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="45" /></a>
-<a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="45" /></a>
-<a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="45" /></a>
-<a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="45" /></a>
-<a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=telegram" width="45" /></a>
 </p>
-
-> ✏️ `#` belgilarini o'zingizning haqiqiy LinkedIn / Twitter / Instagram / Telegram havolalaringiz bilan almashtiring.
 
 ---
 
-## 💬 11. Support
+## ⭐ Support
 
 <p align="center">
 <a href="https://github.com/sarvarbekAkramjonov51"><img src="https://img.shields.io/badge/Follow-@sarvarbekAkramjonov51-00F7FF?style=for-the-badge&logo=github" /></a>
 </p>
-
-Agar loyihalarim sizga foydali bo'lsa — ⭐️ qo'yishni unutmang!
 
 ---
 
