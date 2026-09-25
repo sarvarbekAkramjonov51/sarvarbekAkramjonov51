@@ -53,14 +53,14 @@
 </a>
 </p>
 
-> ✏️ `REPO_NAME` o'rniga eng yaxshi loyihangiz nomini yozing (bir nechta pin card qo'shsangiz bo'ladi).
+> ✏️ `REPO_NAME` o'rniga eng yaxshi loyihangiz nomini yozing. Agar loyiha nomi noto'g'ri bo'lsa, bu card chiqmaydi — repo publichligini va nomini tekshiring.
 
 ---
 
 ## 📊 5. GitHub Stats
 
 <p align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=sarvarbekAkramjonov51&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=sarvarbekAkramjonov51&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9&count_private=true" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarvarbekAkramjonov51&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=c9d1d9" />
 </p>
 
@@ -69,7 +69,7 @@
 ## 🔥 6. Streak Stats
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sarvarbekAkramjonov51&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
+<img src="https://streak-stats.demolab.com/?user=sarvarbekAkramjonov51&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
 </p>
 
 ---
@@ -90,18 +90,13 @@
 
 ---
 
-## 🐍 9. Snake Game (Contribution Grid Animation)
+## 🎓 9. Certificates & Learning
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/sarvarbekAkramjonov51/sarvarbekAkramjonov51/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
+- ✅ *(Sertifikat nomi)* — *(bergan tashkilot)*
+- ✅ *(Sertifikat nomi)* — *(bergan tashkilot)*
+- 📖 Currently studying: **System Design, Advanced React**
 
-> 🕹️ Bu — commit tarixingiz ustida harakatlanuvchi "ilon" animatsiyasi. Ishlashi uchun quyidagi qadamlarni bajaring:
-> 1. `sarvarbekAkramjonov51/sarvarbekAkramjonov51` nomida **maxsus profil repo** yarating (username bilan bir xil nomda).
-> 2. Shu repoga ushbu `README.md` va `.github/workflows/snake.yml` fayllarini joylang.
-> 3. Repo **Settings → Actions → General → Workflow permissions** bo'limida **"Read and write permissions"**ni yoqing.
-> 4. **Actions** tabidan workflow'ni bir marta qo'lda ishga tushiring (**Run workflow**).
-> 5. Bir necha daqiqadan so'ng ilon animatsiyasi shu yerda ko'rinadi.
+> ✏️ Bu bo'limni haqiqiy sertifikatlaringiz bilan to'ldiring.
 
 ---
 
