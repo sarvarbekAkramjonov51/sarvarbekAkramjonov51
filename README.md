@@ -14,8 +14,7 @@
 ## 📌 About Me
 
 - 🔭 Currently working on full‑stack web projects
-- 🌱 Learning advanced system design
-- 🧪 Interested in chemistry
+- 🧪 Interested in programming
 - 💬 Ask me about JavaScript, TypeScript, React and Node.js
 - ⚡ I enjoy turning ideas into working products
 
@@ -44,42 +43,10 @@
 
 ---
 
-## 📊 GitHub Overview
-
-<p align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=sarvarbekAkramjonov51&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9&count_private=true" />
-</p>
-
----
-
-## 💻 Top Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarvarbekAkramjonov51&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=c9d1d9" />
-</p>
-
----
-
 ## 🔥 Streak Stats
 
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=sarvarbekAkramjonov51&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sarvarbekAkramjonov51&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sarvarbekAkramjonov51&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
 </p>
 
 ---
@@ -111,6 +78,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0F2027&height=100&section=footer" width="100%"/>
 
-**© 2026 Sarvarbek Akramjonov**
+**© 2024 Sarvarbek Akramjonov**
 
 </div>
